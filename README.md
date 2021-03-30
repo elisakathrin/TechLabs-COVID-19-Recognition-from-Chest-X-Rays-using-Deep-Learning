@@ -5,3 +5,4 @@ Data Source: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database.
 Contributers:
 Annabelle Neuhäusler
 Elisa Ritter
+Matteo Senoner
