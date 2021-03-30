@@ -2,8 +2,6 @@ Health is one of the most crucial factors to happiness. Deep Learning models off
 
 Data Source: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database. As uploading data failed, a short description of dataprocessing will follow. Pictures were already tagged with two classes: 1) 'normal' and 2) 'covid'. We splitted all data into train and test sets while remaining the substructure of the two classes. 
 
-Video: https://www.loom.com/share/35353c26c40546c29e5beba5ab024a31
-
 Contributers:
 Annabelle Neuhäusler
 Elisa Ritter
